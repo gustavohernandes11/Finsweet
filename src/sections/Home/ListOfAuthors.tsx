@@ -2,10 +2,10 @@ import { Heading, SimpleGrid } from "@chakra-ui/react";
 import { AuthorCard } from "components/AuthorCard";
 import { Wrapper } from "components/Wrapper";
 
-import Author1Img from "../../assets/imgs/avatar/author1.png";
-import Author2Img from "../../assets/imgs/avatar/author2.png";
-import Author3Img from "../../assets/imgs/avatar/author3.png";
-import Author4Img from "../../assets/imgs/avatar/author4.png";
+import Author1Img from "../../assets/avatar/author1.png";
+import Author2Img from "../../assets/avatar/author2.png";
+import Author3Img from "../../assets/avatar/author3.png";
+import Author4Img from "../../assets/avatar/author4.png";
 
 export const ListOfAuthors = () => {
     return (

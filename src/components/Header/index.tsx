@@ -1,5 +1,4 @@
 import {
-    Box,
     Flex,
     HStack,
     useMediaQuery,

@@ -10,11 +10,11 @@ import {
 import { Wrapper } from "components/Wrapper";
 import Image from "next/image";
 
-import Logo1Img from "../../assets/imgs/logo/Logo 1.png";
-import Logo2Img from "../../assets/imgs/logo/Logo 2.png";
-import Logo3Img from "../../assets/imgs/logo/Logo 3.png";
-import Logo4Img from "../../assets/imgs/logo/Logo 4.png";
-import Logo5Img from "../../assets/imgs/logo/Logo 5.png";
+import Logo1Img from "../../assets/logo/Logo 1.png";
+import Logo2Img from "../../assets/logo/Logo 2.png";
+import Logo3Img from "../../assets/logo/Logo 3.png";
+import Logo4Img from "../../assets/logo/Logo 4.png";
+import Logo5Img from "../../assets/logo/Logo 5.png";
 
 export const LogoContainer = () => {
     return (

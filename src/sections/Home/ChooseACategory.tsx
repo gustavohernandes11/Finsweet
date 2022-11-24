@@ -1,8 +1,8 @@
 import { Center, Container, Flex, Heading, SimpleGrid } from "@chakra-ui/react";
-import BusinessIcon from "../../assets/imgs/icon/BusinessIcon.png";
-import RocketIcon from "../../assets/imgs/icon/RocketIcon.png";
-import EconomyIcon from "../../assets/imgs/icon/EconomyIcon.png";
-import TechnologyIcon from "../../assets/imgs/icon/MindIcon.png";
+import BusinessIcon from "../../assets/icon/BusinessIcon.png";
+import RocketIcon from "../../assets/icon/RocketIcon.png";
+import EconomyIcon from "../../assets/icon/EconomyIcon.png";
+import TechnologyIcon from "../../assets/icon/MindIcon.png";
 import { CategoryCard } from "components/CategoryCard";
 import { Wrapper } from "components/Wrapper";
 

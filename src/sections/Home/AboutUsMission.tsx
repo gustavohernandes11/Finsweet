@@ -1,13 +1,4 @@
-import {
-    Box,
-    Button,
-    Container,
-    Flex,
-    Heading,
-    SimpleGrid,
-    Text,
-    VStack,
-} from "@chakra-ui/react";
+import { Box, Button, Flex, Heading, SimpleGrid, Text } from "@chakra-ui/react";
 import { Wrapper } from "components/Wrapper";
 
 export const AboutUsMission = () => {

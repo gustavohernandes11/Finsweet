@@ -1,20 +1,8 @@
-import {
-    Box,
-    Button,
-    Flex,
-    Heading,
-    Icon,
-    IconButton,
-    SimpleGrid,
-    Text,
-    VStack,
-} from "@chakra-ui/react";
-import NextIcon from "../../assets/imgs/icon/ArrowRight.svg";
-import BackIcon from "../../assets/imgs/icon/ArrowLeft.svg";
+import { Box, Flex, Heading, SimpleGrid, Text, VStack } from "@chakra-ui/react";
 import { ArrowLeft, ArrowRight } from "@styled-icons/feather";
 import { Wrapper } from "components/Wrapper";
 import Image from "next/image";
-import ProfilePicture from "../../assets/imgs/avatar/Profile picture.png";
+import ProfilePicture from "../../assets/avatar/Profile picture.png";
 
 export const Testimonials = () => {
     return (
